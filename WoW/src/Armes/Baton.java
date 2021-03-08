@@ -1,8 +1,4 @@
-/*
-Vendredi 15 novembre 2019
-TP3 
-Marc Cossais en binome avec Deryne Four
-*/
+
 package Armes;
 
 public class Baton extends Arme {
